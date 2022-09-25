@@ -1,6 +1,6 @@
 ## How It's Made:
 
-**Tech used:** `MongoDB`, `Express`, `Node.js`, `Javscript`, `Bootstrap`, `Passport.js`
+**Tech used:** `MongoDB`, `Express`, `Node.js`, `Javscript`, `Bootstrap`, `Passport.js`, `EJS`
 
 ## Optimizations
 
