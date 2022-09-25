@@ -1,20 +1,20 @@
-# Install
+## How It's Made:
 
-`npm install`
+**Tech used:** `MongoDB`, `Express`, `Node.js`, `Javscript`, `Bootstrap`, `Passport.js`
 
----
+## Optimizations
 
-# Things to add
-
-- Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
-
----
-
-# Run
-
-`npm start`
+- touch up comments
+  - format
+  - date format
+- use cards in the fed
+- add to "add a recipe" section
+	- ingredient/directions
+	- tags?
+	- source (optional)
+	- wysiwyg text editor
+  - edit button ingredients/directions
+- comments should delete when recipes are deleted (in mongodb)
+- add google auth to log in
+- navbar & footer
+- wrap pictures under small screen (media query)
