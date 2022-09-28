@@ -7,7 +7,7 @@
 - touch up comments
   - format
   - date format
-- use cards in the fed
+- use cards in the feed
 - add to "add a recipe" section
 	- ingredient/directions
 	- tags?
@@ -18,3 +18,4 @@
 - add google auth to log in
 - navbar & footer
 - wrap pictures under small screen (media query)
+- add "posted by"
