@@ -24,8 +24,19 @@
         <%}%>
       </div>
     </div>
-    <div class="col-3 mt-5">
-      <p><%= post.caption %></p>
+    <div class="col-6 mt-5">
+      <div class="mt-5">
+        <h3 class="text-decoration-underline">Ingredients</h3>
+        <p><%= post.ingredients %></p>
+      </div>
+      <div class="mt-5">
+        <h3 class="text-decoration-underline">Directions</h3>
+        <p><%= post.directions %></p>
+      </div>
+      <div class="mt-5">
+        <h3 class="text-decoration-underline">Source of Recipe</h3>
+        <p><%= post.recipeSource %></p>
+      </div>
     </div>
     <div class="mt-5">
       <h2>Add a comment</h2>

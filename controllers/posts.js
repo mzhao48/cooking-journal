@@ -46,6 +46,8 @@ module.exports = {
         image: result.secure_url,
         cloudinaryId: result.public_id,
         ingredients: req.body.ingredients,
+        directions: req.body.directions,
+        recipeSource: req.body.recipeSource,
         likes: 0,
         user: req.user.id,
       });
