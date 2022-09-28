@@ -5,17 +5,19 @@
 ## Optimizations
 
 - touch up comments
-  - format
-  - date format
-- use cards in the feed
+  - show who posted the comment
+  - shorten date format
+- feed
+  - shorten date format
+  - staggered gallery feed?
 - add to "add a recipe" section
-	- ingredient/directions
+	- ~~ingredient/directions~~
 	- tags?
-	- source (optional)
-	- wysiwyg text editor
+	- ~~source (optional)~~
+	- ~~wysiwyg text editor~~
   - edit button ingredients/directions
 - comments should delete when recipes are deleted (in mongodb)
 - add google auth to log in
 - navbar & footer
 - wrap pictures under small screen (media query)
-- add "posted by"
+- add "posted by" (optional)
