@@ -23,3 +23,5 @@
 - navbar & footer
 - wrap pictures under small screen (media query)
 - add "posted by" (optional)
+
+test
