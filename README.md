@@ -7,6 +7,8 @@
 - touch up comments
   - show who posted the comment
   - shorten date format
+  - work on formatting
+  - delete comment button?
 - feed
   - shorten date format
   - staggered gallery feed?
