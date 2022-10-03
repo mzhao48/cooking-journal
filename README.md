@@ -20,6 +20,6 @@
   - edit button ingredients/directions
 - comments should delete when recipes are deleted (in mongodb)
 - add google auth to log in
-- navbar & footer
+- ~~navbar~~ & footer
 - wrap pictures under small screen (media query)
 - add "posted by" (optional)
