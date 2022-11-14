@@ -50,10 +50,10 @@
         <button type="submit" class="btn btn-primary bg-yellow-500">Submit</button>
       </form>
     </div>
-    <ul>
+    <ul class="list-none">
       <% for(var i=0; i<comments.length; i++) {%>
-        <li class="col-6 justify-content-between mt-5">
-          <p><%= comments[i].createdAt%></p>
+        <li class="justify-content-between mt-4">
+          <p class="font-bold"><%= comments[i].createdAt%></p>
           <p><%= comments[i].comment%></p>
         </li>
       <% } %>
